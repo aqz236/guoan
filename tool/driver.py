@@ -211,7 +211,6 @@ def createHtml():
 		<div class="banner">
 			<img src="http://gjaqzsjs.haedu.cn/gjaq_dati/images/banner.png">
 		</div>
-
 		<div class="main">
 			<div class="answer_userinfo">
 				<div class="flex">
