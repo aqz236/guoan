@@ -57,7 +57,6 @@ def login(schoolId,userId,passwd,allData):
     else:
         return {'code' : 123321, 'msg':stuInfo['msg']}
 
-
 def getQuestionLists():
     global cookieArr,answer
     print("获取试题")
