@@ -12,6 +12,9 @@
     
 -control.py [入口程序]
 
+#### 流程图
+
+![image](https://user-images.githubusercontent.com/54022108/144288179-28f526a8-ee2e-46b3-8aed-6bab35ef5bbd.png)
 
 
 #### 使用说明
