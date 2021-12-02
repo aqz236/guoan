@@ -104,7 +104,8 @@ def checkInput():
             with open(f'{userId}国家安全知识考试.html', 'a',  encoding='utf-8')as f2:  # f2为文件描述符
                 f2.write(htmlData)
             webbrowser.open(f'{userId}国家安全知识考试.html')
-            time.sleep(2)
+            print("得分页面已打开，如果提示请选择浏览器打开，随便选择一个点击确定")
+            time.sleep(10)
             os.remove(f'{userId}国家安全知识考试.html')
 
 
